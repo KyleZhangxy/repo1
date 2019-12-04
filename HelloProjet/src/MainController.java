@@ -7,4 +7,12 @@ public class MainController {
 
 
     }
+
+    public void hit3(){
+
+    }
+
+    public void hitMaster(){
+
+    }
 }
