@@ -12,6 +12,8 @@ public class MainController {
         System.out.println("try delete and add");
         //重新加上
         System.out.println("try again");
+        Hello hello = new Hello();
+        hello.sayHello();
     }
 
     public void hit3(){
