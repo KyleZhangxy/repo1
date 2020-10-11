@@ -10,6 +10,8 @@ public class MainController {
         System.out.println("use f_BRP_20201011");
         //重新加上
         System.out.println("try delete and add");
+        //重新加上
+        System.out.println("try again");
     }
 
     public void hit3(){
